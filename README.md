@@ -12,6 +12,14 @@ how you install it? bro do you think i know? google will help ya.
 
 So, when you have all the dependencies, you shall just execute ```make rebuild``` and ```make run-iso``` if u r going to launch it in qemu
 
+### System requirements
+actually **i dont know** lmao
+i had tested it on netbook from 2011. you should have SSE support, vbe (800x600) support and uhh
+fire extinguisher
+what if you dont have SSE: tf u mean by these words
+is ur device from 1995 or what
+go buy yourself a newer device lol
+
 ### And... that's all lol
 good luck
 
