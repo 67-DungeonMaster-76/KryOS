@@ -8,7 +8,6 @@ optimizations sucks but ill work on it later
 
 ### How to build this?
 first of all you should have packages like:  nasm, xorriso, mtools, build-essential, gcc-multilib, grub-common, grub-pc-bin, and qemu if u r going to test it on emulator, or use any other vm, i dont really care lmao
-how you install it? bro do you think i know? google will help ya.
 
 So, when you have all the dependencies, you shall just execute ```make rebuild``` and ```make run-iso``` if u r going to launch it in qemu
 
