@@ -1,6 +1,6 @@
 # KryOS
 ### What is KryOS?
-KryOS is a simple 32 bit OS on C++ and nasm.
+KryOS is a simple 32 bit OS on C and nasm.
 it has simple video and keyboard driver, all idt and gdt descriptors
 i think its kinda cool ngl
 it like has vbe, custom framebuffer console... and also i had tested it on old netbook lmao
